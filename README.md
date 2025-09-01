@@ -37,7 +37,6 @@ Este projeto implementa um sistema de monitoramento climático utilizando o micr
 
 ## Resultados
 
-  ![Imagem da tela web](./imagens/ImagemPagina.png)
 - O sistema funcionou conforme esperado, exibindo os dados em tempo real.
 - LEDs atuaram corretamente em condições críticas.
 - Interface web apresentou informações de forma clara e intuitiva.
