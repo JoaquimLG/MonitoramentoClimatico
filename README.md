@@ -39,7 +39,5 @@ Este projeto implementa um sistema de monitoramento climático utilizando o micr
 
 - O sistema funcionou conforme esperado, exibindo os dados em tempo real.
 - LEDs atuaram corretamente em condições críticas.
-
-Interface web apresentou informações de forma clara e intuitiva.
-
-Poluição foi simulada com potenciômetro, mas o sistema pode ser expandido com sensores reais.
+- Interface web apresentou informações de forma clara e intuitiva.
+- Poluição foi simulada com potenciômetro, mas o sistema pode ser expandido com sensores reais.
