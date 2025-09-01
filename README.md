@@ -1,6 +1,6 @@
 # Monitoramento Ambiental em Tempo Real
 
-Este projeto implementa um sistema de monitoramento climático utilizando o microcontrolador ESP32 e sensores de baixo custo. Os dados coletados (temperatura, umidade, luminosidade e poluição simulada) são exibidos em tempo real em uma página web hospedada pelo próprio ESP32.
+Este projeto realizado em dupla com [Valter Leite](https://github.com/Valter-LeiteJr/Valter-LeiteJr) implementa um sistema de monitoramento climático utilizando o microcontrolador ESP32 e sensores de baixo custo. Os dados coletados (temperatura, umidade, luminosidade e poluição simulada) são exibidos em tempo real em uma página web hospedada pelo próprio ESP32.
 
 ## Funcionalidades
 
