@@ -121,7 +121,7 @@ void setup() {
   //INICIALIZA O SENSOR DE TEMPERATURA E UMIDADE
   dht.begin();
 
-  //CRIA O PONTO DE ACESSO E EXIBE O ENDERECO IP NO SERIAL
+  //CRIA O PONTO DE ACESSO E EXIBE O ENDERECO IP NO
   WiFi.softAP(nomeRede, senha);
   IPAddress ip = WiFi.softAPIP();
   Serial.print("Endereço IP: ");
