@@ -36,7 +36,7 @@ Este projeto implementa um sistema de monitoramento climático utilizando o micr
 - O sistema foi montado em uma protoboard, interligando o ESP32, os sensores e LEDs de alerta.
 
 ## Resultados
-  ![Esquema da página web](imagens/circuito.png)
+  ![Esquema da página web](imagens/ImagemPagina.png)
 - O sistema funcionou conforme esperado, exibindo os dados em tempo real.
 - LEDs atuaram corretamente em condições críticas.
 
